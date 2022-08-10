@@ -12,5 +12,4 @@ Duraktaki ekranlardan;
 
 Ayrıca akıllı duraklarda güneş enerjisi ya da şebeke elektriği ile çalışan şarj üniteleri, wifi ve klima sistemi gibi özellikler de bulunabilir. 
 
-
 Design by: https://www.linkedin.com/in/musacufalci/
