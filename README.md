@@ -20,4 +20,4 @@ Ayrıca akıllı duraklarda güneş enerjisi ya da şebeke elektriği ile çalı
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Design by: https://www.linkedin.com/in/musacufalci/
+- Design by: https://www.linkedin.com/in/musacufalci/
