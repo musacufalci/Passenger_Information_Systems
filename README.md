@@ -10,9 +10,9 @@ Akıllı durak, toplu taşımacılık'da kullanılan modern bir teknoloji uygula
 
 Duraktaki ekranlardan;
 
-Araçların o anki yeri ve durağa geleceği tahmini süre
-Hava durumu
-Trafik durumu öğrenilebilir.
+- Araçların o anki yeri ve durağa geleceği tahmini süre,
+- Hava durumu,
+- Trafik durumu öğrenilebilir.
 
 Ayrıca akıllı duraklarda güneş enerjisi ya da şebeke elektriği ile çalışan şarj üniteleri, wifi ve klima sistemi gibi özellikler de bulunabilir.
 ________________________________________________________________________________________________________________________________________________________________
