@@ -6,7 +6,15 @@ Real-time information is an advance on schedule-only information, which recognis
 
 ________________________________________________________________________________________________________________________________________________________________
 
-Akıllı durak, toplu taşımacılık'da kullanılan modern bir teknoloji uygulamasıdır.
+Akıllı durak, toplu taşımacılık'da kullanılan modern bir teknoloji uygulamasıdır. Akıllı duraklar konvansiyonel olanlara göre çeşitli imkânlarla donatılmıştır. Bunların bazıları şu şekilde sıralanabilir:
+
+Duraktaki ekranlardan;
+
+Araçların o anki yeri ve durağa geleceği tahmini süre
+Hava durumu
+Trafik durumu öğrenilebilir.
+
+Ayrıca akıllı duraklarda güneş enerjisi ya da şebeke elektriği ile çalışan şarj üniteleri, wifi ve klima sistemi gibi özellikler de bulunabilir.
 ________________________________________________________________________________________________________________________________________________________________
 
 - Design by: https://www.linkedin.com/in/musacufalci/
